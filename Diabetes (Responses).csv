@@ -1,0 +1,121 @@
+Timestamp,Enter your full name.,Gender.,Enter your Age in years.,Enter your weight in kg.,Select your height in feet and inches.,Do you have diabetes?,"Do you have any other major disease (syndrome, arthritis, liver, kidney, lungs etc. problem)?",What is your average fasting (not eating overnight) Blood Sugar level (mg/dl)? ,Do you have a history of diabetes in your family? ,How often you do any physical exercise? ,"How often do you eat junk food in a week (carbonated drinks, burgers etc.)?"
+12/16/2022 0:02:50,Ukasha Altaf,Prefer not to say,18,57,"5' 10""",Didn't Check,No,Normal (i.e. 70 - 99),No,Occasionally,Once
+12/16/2022 0:04:18,Amna ali,Female,19,48,"5' 5""",No,No,Normal (i.e. 70 - 99),No,Occasionally,Twice
+12/16/2022 0:05:30,Muzammil Kz,Male,19,65,"6' 0""",Didn't Check,No,Normal (i.e. 70 - 99),No,Occasionally,More than twice
+12/16/2022 0:07:19,Farhan Akbar Bughio ,Male,19,60,"5' 4""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,Twice
+12/16/2022 0:08:29,Emama Nugman ,Female,18,69,"5' 4""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,Once
+12/16/2022 0:09:25,Muhammad Shahzad,Male,23,80,"5' 8""",No,No,Normal (i.e. 70 - 99),Yes,Never,Once
+12/16/2022 0:11:48,Awais Tahseen,Male,18,70,"5' 6""",No,No,Normal (i.e. 70 - 99),Yes,Daily,More than twice
+12/16/2022 0:13:16,321 pillay,Female,195,321,"6' 8""",Yes,Yes,Normal (i.e. 70 - 99),Yes,Daily,Once
+12/16/2022 0:15:30,Muhammad Asim Nawaz,Male,19,59,"5' 7""",No,No,Normal (i.e. 70 - 99),No,Occasionally,Twice
+12/16/2022 0:17:45,Muhammad Rehman Ashraf ,Male,19,61,"5' 7""",Didn't Check,No,Normal (i.e. 70 - 99),No,Never,Once
+12/16/2022 0:18:36,Huma Amin ,Female,21,50,"5' 2""",No,No,Normal (i.e. 70 - 99),Yes,Never,More than twice
+12/16/2022 0:22:14,Fatima Shahid ,Female,17,45,"5' 3""",No,No,Normal (i.e. 70 - 99),No,Occasionally,Once
+12/16/2022 0:23:42,Adnan ijaz,Male,22,57,"5' 10""",No,No,Normal (i.e. 70 - 99),No,Daily,More than twice
+12/16/2022 0:24:53,Muhammad Hamza ,Male,19,54,"5' 9""",No,No,Normal (i.e. 70 - 99),Yes,Daily,Once
+12/16/2022 0:27:58,Hassnain Ali Soomro,Male,18,74,"6' 5""",Didn't Check,No,Normal (i.e. 70 - 99),No,Occasionally,Once
+12/16/2022 0:35:46,,Female,25,60,"5' 2""",No,No,Normal (i.e. 70 - 99),Yes,Daily,Once
+12/16/2022 0:40:59,Raja Abdul Hanan ,Male,20,51,"5' 7""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,More than twice
+12/16/2022 0:52:01,Ghulam Mujtaba ,Male,18,50,4' 11'',Didn't Check,No,Normal (i.e. 70 - 99),No,Occasionally,More than twice
+12/16/2022 1:07:37,Shuja,Male,20,76,"6' 0""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,More than twice
+12/16/2022 1:10:02,,Male,14,30,"5' 1""",No,No,100 - 125,Yes,Never,Twice
+12/16/2022 1:27:13,Iman Noor ,Female,20,48,"5' 3""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,More than twice
+12/16/2022 1:35:56,Noor Ul Eman,Male,19,69,"5' 11""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,More than twice
+12/16/2022 1:36:15,Shaiza,Female,19,49,"5' 3""",Didn't Check,No,Normal (i.e. 70 - 99),No,Occasionally,Twice
+12/16/2022 1:38:35,Shahbaz ,Male,19,71,"5' 6""",No,No,Normal (i.e. 70 - 99),No,Occasionally,Once
+12/16/2022 3:11:10,Muhammad Daniyal Nazeer ,Male,20,60,"5' 11""",No,No,Normal (i.e. 70 - 99),No,Occasionally,More than twice
+12/16/2022 4:48:20,,Male,19,64,"5' 9""",No,No,Normal (i.e. 70 - 99),No,Occasionally,More than twice
+12/16/2022 6:12:03,Asad Butt,Male,20,50,"5' 7""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,Once
+12/16/2022 6:12:37,Ayesha Tahir,Female,19,44,"5' 3""",No,No,Normal (i.e. 70 - 99),No,Occasionally,Once
+12/16/2022 6:23:12,Muhammad Kashif,Male,18,70,"5' 7""",No,Yes,Normal (i.e. 70 - 99),No,Occasionally,More than twice
+12/16/2022 6:27:31,Muhammad Samiullah,Male,18,60,"5' 9""",Yes,No,125 or above,No,Occasionally,More than twice
+12/16/2022 6:34:54,Tehreem Zubair,Female,19,45,"4' 10""",No,No,Normal (i.e. 70 - 99),No,Occasionally,More than twice
+12/16/2022 7:01:57,A.R Memon,Male,15,59,4' 11'',Didn't Check,No,Normal (i.e. 70 - 99),Yes,Occasionally,Twice
+12/16/2022 7:24:14,Zoha Zulfiqar ,Female,19,55,"5' 3""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,Once
+12/16/2022 7:36:58,Ahmed bux ,Male,19,52,"5' 6""",No,No,Normal (i.e. 70 - 99),No,Daily,Once
+12/16/2022 7:40:16,Nida Pervaiz ,Female,19,51,"5' 4""",No,No,Normal (i.e. 70 - 99),No,Daily,More than twice
+12/16/2022 7:53:10,Muhammad Azhar khan ,Male,28,53,"5' 7""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,Once
+12/16/2022 7:56:29,Zaeem ,Male,19,85,"5' 11""",No,No,Normal (i.e. 70 - 99),Yes,Daily,Twice
+12/16/2022 8:05:58,Muhib Kamran Abbasi ,Male,18,57,"5' 9""",No,No,Normal (i.e. 70 - 99),No,Occasionally,More than twice
+12/16/2022 8:28:32,Nudrat Javeria ,Female,20,53,"5' 0""",No,No,Normal (i.e. 70 - 99),Yes,Daily,Once
+12/16/2022 8:33:40,Muhammad Salman,Male,19,58,"5' 7""",No,No,Normal (i.e. 70 - 99),No,Occasionally,Once
+12/16/2022 8:41:38,Huzaiz,Male,20,78,"5' 9""",Didn't Check,No,Normal (i.e. 70 - 99),No,Never,More than twice
+12/16/2022 8:55:41,Umar,Male,20,55,"5' 5""",Didn't Check,No,Normal (i.e. 70 - 99),Yes,Occasionally,Once
+12/16/2022 9:46:06,Muhammad Wajahat Ali ,Male,20,51,"5' 7""",No,No,125 or above,No,Never,More than twice
+12/16/2022 9:49:10,Tanzeela Kiran ,Female,21,45,"4' 4""",No,No,Normal (i.e. 70 - 99),No,Occasionally,More than twice
+12/16/2022 9:49:40,BUSHRA MUMTAZ ,Female,18,36,"5' 1""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,Twice
+12/16/2022 10:23:08,Mir Aqib Chandio,Male,19,40,"4' 9""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,More than twice
+12/16/2022 10:54:57,Jawaria khan,Female,19,46,"5' 3""",No,No,Normal (i.e. 70 - 99),No,Occasionally,More than twice
+12/16/2022 11:04:40,Abdullah Arshad ,Male,19,72,"5' 7""",No,No,Normal (i.e. 70 - 99),No,Occasionally,More than twice
+12/16/2022 11:22:18,Samsoor khan ,Male,20,60,"5' 4""",No,No,Normal (i.e. 70 - 99),No,Occasionally,More than twice
+12/16/2022 11:52:22,Shah Waris ,Male,23,40,"5' 4""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,Once
+12/16/2022 12:18:37,Umair khan,Male,19,53,"5' 10""",No,No,Normal (i.e. 70 - 99),No,Daily,Twice
+12/16/2022 12:30:32,🐣,Prefer not to say,00,00,"4' 1""",Didn't Check,No,Normal (i.e. 70 - 99),Yes,Never,More than twice
+12/16/2022 12:31:23,Syeda Areej ,Female,22,60,"5' 0""",No,No,Normal (i.e. 70 - 99),No,Occasionally,Once
+12/16/2022 12:35:16,Fareeha,Female,20,50,"5' 2""",Didn't Check,No,Normal (i.e. 70 - 99),Yes,Occasionally,Once
+12/16/2022 12:59:28,Wajahatullah ,Male,19,53,"5' 4""",No,No,Normal (i.e. 70 - 99),No,Occasionally,Once
+12/16/2022 13:34:41,Syeda Dur e Najef,Female,22,43,"5' 3""",No,No,100 - 125,Yes,Occasionally,Twice
+12/16/2022 13:41:59,Muhammad Shaheer Khan ,Male,20,55,"5' 6""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,Twice
+12/16/2022 13:52:03,MOAZAM ALI ,Male,15,45,"4' 4""",No,No,Normal (i.e. 70 - 99),No,Never,More than twice
+12/16/2022 14:29:05,Sumaira Urooj Fatima ,Female,16,47,"5' 4""",No,No,Normal (i.e. 70 - 99),No,Daily,Twice
+12/16/2022 14:31:10,Uneeb Ahmed Naqeeb ,Male,19,70,"6' 0""",No,No,100 - 125,No,Occasionally,Once
+12/16/2022 14:52:42,Maria,Female,20,43,"5' 1""",No,No,Normal (i.e. 70 - 99),No,Never,Twice
+12/16/2022 15:52:00,,Male,40,100,"5' 1""",Yes,Yes,Normal (i.e. 70 - 99),Yes,Daily,Once
+12/16/2022 15:52:45,,Female,35,50,"5' 2""",Yes,No,Normal (i.e. 70 - 99),Yes,Daily,Once
+12/16/2022 15:53:49,,Male,54,190,"5' 10""",Yes,No,Normal (i.e. 70 - 99),Yes,Daily,Once
+12/16/2022 15:55:25,,Male,32,50,"5' 9""",Yes,Yes,125 or above,Yes,Never,Twice
+12/16/2022 15:57:27,,Male,40,60,"5' 1""",Yes,Yes,125 or above,Yes,Never,More than twice
+12/16/2022 16:02:26,,Male,19,35,"4' 7""",Yes,Yes,125 or above,Yes,Daily,Once
+12/16/2022 16:06:07,,Female,34,50,"4' 4""",Yes,No,100 - 125,Yes,Daily,Twice
+12/16/2022 16:08:49,,Male,56,40,"6' 8""",Yes,Yes,125 or above,Yes,Daily,Once
+12/16/2022 16:09:35,,Male,50,80,"5' 3""",Yes,Yes,125 or above,Yes,Daily,More than twice
+12/16/2022 16:12:08,Sher Muhammad ,Male,45,70,"5' 3""",Yes,Yes,100 - 125,Yes,Daily,Once
+12/16/2022 16:13:34,Qaz Banoo,Female,42,78,"4' 8""",Yes,No,125 or above,No,Never,More than twice
+12/16/2022 16:14:35,Abdullah ,Male,53,55,"5' 4""",Yes,Yes,100 - 125,Yes,Occasionally,Twice
+12/16/2022 16:16:40,Razia,Female,48,63,"5' 0""",Yes,No,125 or above,No,Occasionally,More than twice
+12/16/2022 16:18:24,Wazeer,Male,36,85,"5' 2""",Yes,No,125 or above,Yes,Never,More than twice
+12/16/2022 16:46:23,,Male,56,90,"5' 6""",Yes,Yes,125 or above,Yes,Never,Once
+12/16/2022 16:55:56,Dilawar ,Male,45,77,"5' 11""",Yes,No,100 - 125,No,Occasionally,Twice
+12/16/2022 16:57:43,Farhat,Female,42,80,"5' 5""",Yes,No,100 - 125,Yes,Occasionally,More than twice
+12/16/2022 18:50:43,Muhammad Yousuf,Male,54,79,"5' 7""",Yes,No,125 or above,Yes,Never,Once
+12/16/2022 18:57:19,Fazeelat Bano,Female,56,75,"5' 1""",Yes,Yes,125 or above,No,Never,Once
+12/16/2022 19:31:07,Asif Zameer ,Male,49,76,"5' 9""",No,No,100 - 125,No,Occasionally,Once
+12/16/2022 20:33:44,Abdullah Memon,Male,21,60,"5' 4""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,Twice
+12/16/2022 20:45:02,Lucky,Male,20,70,"6' 1""",No,No,Normal (i.e. 70 - 99),No,Occasionally,Never
+12/16/2022 21:56:48,Kisaa Fatima,Female,20,46,"5' 2""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,Twice
+12/16/2022 22:02:42,Benyamin ,Male,67,85,"5' 10""",Yes,Yes,125 or above,Yes,Occasionally,Never
+12/16/2022 22:05:47,Tasleem Akhtar,Female,57,89,"5' 3""",Yes,No,125 or above,Yes,Occasionally,Never
+12/16/2022 22:13:11,M Yameen Jilani,Male,21,60,"5' 11""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,Once
+12/16/2022 22:15:02,Zubair Sadiq,Male,54,72,"5' 4""",No,No,Normal (i.e. 70 - 99),No,Occasionally,Once
+12/16/2022 22:33:47,Bareera Masood ,Female,20,62,"5' 4""",No,No,Normal (i.e. 70 - 99),Yes,Never,More than twice
+12/16/2022 23:18:12,Faiza riaz,Female,20,55,"5' 1""",No,No,Normal (i.e. 70 - 99),Yes,Occasionally,More than twice
+12/17/2022 0:18:22,Anwer,Male,50,70,"5' 8""",Yes,Yes,100 - 125,No,Never,Never
+12/17/2022 0:21:39,Hamid kaleem,Male,48,75,"5' 5""",Yes,Yes,125 or above,Yes,Occasionally,Twice
+12/17/2022 0:22:41,Nadia,Female,53,80,"5' 1""",Yes,Yes,125 or above,No,Never,More than twice
+12/17/2022 0:23:14,Ali,Male,45,85,"5' 9""",Yes,Yes,100 - 125,Yes,Occasionally,Never
+12/17/2022 0:23:23,Razaq,Male,50,78,"5' 4""",Yes,No,125 or above,Yes,Never,Twice
+12/17/2022 0:24:16,Mohsin,Male,43,71,"5' 4""",Yes,No,125 or above,No,Daily,Once
+12/17/2022 0:24:58,Shifa,Female,35,60,"5' 5""",Yes,No,125 or above,No,Never,Once
+12/17/2022 0:25:18,Ahsan,Male,59,75,"5' 3""",Yes,Yes,125 or above,No,Daily,Never
+12/17/2022 0:26:27,Fehmeeda,Female,44,58,"5' 2""",Yes,No,125 or above,Yes,Occasionally,More than twice
+12/17/2022 0:26:27,Yousaf,Male,75,70,"5' 8""",Yes,Yes,125 or above,Yes,Never,Never
+12/17/2022 0:27:18,,Male,67,87,"5' 4""",Yes,Yes,100 - 125,Yes,Never,Twice
+12/17/2022 0:27:39,Shazia,Female,41,68,"5' 2""",Yes,Yes,125 or above,Yes,Occasionally,Twice
+12/17/2022 0:27:57,,Female,43,49,"5' 9""",Yes,No,125 or above,Yes,Never,Once
+12/17/2022 0:28:40,,Male,86,87,"5' 7""",Yes,No,125 or above,Yes,Never,Once
+12/17/2022 0:29:13,Aslam,Male,55,75,"5' 8""",Yes,Yes,100 - 125,Yes,Never,Twice
+12/17/2022 0:30:02,Raheel,Male,60,72,"5' 6""",Yes,No,100 - 125,Yes,Occasionally,More than twice
+12/17/2022 0:30:44,,Female,45,60,"5' 3""",Yes,No,100 - 125,Yes,Never,Never
+12/17/2022 0:31:24,,Female,50,58,"5' 4""",Yes,Yes,125 or above,Yes,Never,Never
+12/17/2022 0:31:39,,Male,34,60,"5' 7""",Yes,No,125 or above,Yes,Never,Once
+12/17/2022 0:32:16,Shakeela,Female,52,60,"5' 4""",Yes,No,125 or above,Yes,Never,Never
+12/17/2022 0:33:09,Haji abdullah,Male,49,75,"5' 8""",Yes,Yes,100 - 125,Yes,Occasionally,Twice
+12/17/2022 0:33:37,,Male,19,65,"5' 7""",No,No,Normal (i.e. 70 - 99),No,Daily,Once
+12/17/2022 0:35:56,Ali,Male,37,78,"5' 11""",Yes,No,100 - 125,No,Occasionally,More than twice
+12/17/2022 0:36:56,Farooq,Male,49,72,"5' 9""",Yes,Yes,100 - 125,Yes,Occasionally,Never
+12/17/2022 0:37:24,,Female,78,76,"5' 5""",Yes,Yes,125 or above,Yes,Never,Never
+12/17/2022 0:37:35,Mushtaq,Male,39,78,"5' 10""",Yes,Yes,100 - 125,Yes,Never,Never
+12/17/2022 0:37:40,kishwar,Female,27,59,"5' 3""",Yes,Yes,125 or above,No,Occasionally,Never
+12/17/2022 0:37:55,Yousaf ,Male,38,80,"5' 10""",Didn't Check,No,Normal (i.e. 70 - 99),No,Occasionally,Once
+12/17/2022 0:38:15,Umair,Male,49,59,"5' 5""",Yes,Yes,125 or above,Yes,Never,More than twice
+12/17/2022 0:38:19,haseeb,Male,33,65,"5' 5""",Yes,No,125 or above,Yes,Never,Once
